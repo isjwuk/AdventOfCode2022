@@ -27,4 +27,8 @@ $calculatedElfList=foreach($line in $elfList.Split()){
         $calorieCount+= $line
     }
 }
-$calculatedElfList | Sort-Object -Property "CaloriesCarried" -Descending -Top 1
+"Part 1 Answer"
+($calculatedElfList | Sort-Object -Property "CaloriesCarried" -Descending -Top 1).CaloriesCarried
+
+"Part 2 Answer"
+(($calculatedElfList | Sort-Object -Property "CaloriesCarried" -Descending -Top 3).CaloriesCarried | Measure-Object -Sum).Sum
