@@ -30,7 +30,6 @@ ForEach($assignment in $assignments){
     {
         #Increase Counter
         $counter++
-        $assignment
     }
 
 }

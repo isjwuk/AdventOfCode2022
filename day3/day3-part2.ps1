@@ -6,8 +6,6 @@
 #Read in our personal input file
 $rucksacksFile=Get-Content "./input.txt"
 # Make this a nice object
-#$counter=1 # We're going to assign an ID in case we need to look it up later
-#$rucksacksFile[5]
 
 $priorityTotal=0 #This will be our sum of priorities of item types
 
