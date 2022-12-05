@@ -16,12 +16,11 @@ $assignments=ForEach($elfPair in $assignmentFile){
     }
 }
 
-#Use that object to look for pairs where one assignment fully contains the other
+#Use that object to look for pairs where one assignment overlaps the other
 $counter=0
 ForEach($assignment in $assignments){
 
-    #If 1stMin <= 2ndMin and 1stMax >= 2ndMax then it's self contained
-    # or reversed
+
     if (($assignment.FirstPairMin -le $assignment.SecondPairMin -and 
         $assignment.FirstPairMax -ge $assignment.SecondPairMin) -or
         ($assignment.SecondPairMin -le $assignment.FirstPairMin -and
@@ -35,7 +34,6 @@ ForEach($assignment in $assignments){
     {
         #Increase Counter
         $counter++
-        $assignment
     }
 
 }

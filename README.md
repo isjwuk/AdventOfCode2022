@@ -1,2 +1,10 @@
-# AdventOfCode2022
-2022 Advent of Code
+# Advent Of Code 2022
+My code for 2022 edition of the annual [Advent of Code](https://adventofcode.com/2022) challenge. I used PowerShell to crack these daily puzzles through December.
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+* [Day 1: Calorie Counting](./day1/)
+* [Day 2: Rock Paper Scissors](./day2/)
+* [Day 3: Rucksack Reorganization](./day3/)
+* [Day 4: Camp Cleanup](./day4/)
+* [Day 5: Supply Stacks](./day5/)
