@@ -8,3 +8,4 @@ My code for 2022 edition of the annual [Advent of Code](https://adventofcode.com
 * [Day 3: Rucksack Reorganization](./day3/)
 * [Day 4: Camp Cleanup](./day4/)
 * [Day 5: Supply Stacks](./day5/)
+* [Day 6: Tuning Trouble](./day6/)
