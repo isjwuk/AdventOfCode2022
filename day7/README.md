@@ -5,6 +5,7 @@
 * [My Part 1 Solution](./day7-part1.ps1)
 * [My Part 2 Solution](./day7-part2.ps1)
 * [My personal input file](./input.txt)
+* [Example input file](./exampleinput.txt)
 
 ### Puzzle Description
 
