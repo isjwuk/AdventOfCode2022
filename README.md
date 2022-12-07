@@ -9,3 +9,4 @@ My code for 2022 edition of the annual [Advent of Code](https://adventofcode.com
 * [Day 4: Camp Cleanup](./day4/)
 * [Day 5: Supply Stacks](./day5/)
 * [Day 6: Tuning Trouble](./day6/)
+* [Day 7: No Space Left on Device](./day7/)
