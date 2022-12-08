@@ -1,4 +1,4 @@
-#Advent of Code Day 7 (part 1)
+#Advent of Code Day 7 (parts 1+2)
 #
 #https://github.com/isjwuk/AdventOfCode2022
 #https://adventofcode.com/2022/day/7
