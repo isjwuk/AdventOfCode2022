@@ -1,5 +1,5 @@
 # Advent of Code 2022
-## Day 9: 
+## Day 9: Rope Bridge
 
 * [Original Puzzle Page](https://adventofcode.com/2022/day/9)
 * [My Part 1 Solution](./day9-part1.ps1)
@@ -11,5 +11,6 @@
 
 ### My Solution
 #### Part 1
+> How many positions does the tail of the rope visit at least once?
 
 #### Part 2
