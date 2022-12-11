@@ -12,3 +12,5 @@ My code for 2022 edition of the annual [Advent of Code](https://adventofcode.com
 * [Day 7: No Space Left on Device](./day7/)
 * [Day 8: Treetop Tree House](./day8/)
 * [Day 9: Rope Bridge](./day9/)
+* [Day 10: Cathode-Ray Tube](./day10/)
+* [Day 11: Monkey in The Middle](./day11/)
